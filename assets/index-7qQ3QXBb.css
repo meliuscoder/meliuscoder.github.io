@@ -1,0 +1,1 @@
+@keyframes gradientShift{0%{background-position:0%}50%{background-position:100%}to{background-position:0%}}.animated-background{background:linear-gradient(-45deg,#ff6ec4,#7873f5,#4ade80,#facc15) 0 0/400% 400%;animation:12s infinite gradientShift}

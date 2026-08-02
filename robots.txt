@@ -1,0 +1,30 @@
+﻿# robots.txt for meliuscoder.com corporate site
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /assets/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Block common bot crawlers that ignore rules (optional)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+# Crawl-delay for well-behaved bots
+User-agent: *
+Crawl-delay: 10
+
+# Sitemap location (update domain as needed)
+Sitemap: https://www.corporate.axion.com/sitemap.xml
