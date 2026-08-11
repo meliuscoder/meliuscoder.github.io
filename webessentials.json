@@ -1,0 +1,32 @@
+[
+  {
+    "key": "gmail",
+    "name": "Gmail",
+    "endpoint": "https://mail.google.com/mail/u/0/#inbox",
+    "logo": "https://s3-alpha.figma.com/hub/file/4765445806/10c157d8-1da5-42fd-8143-4dd6df2656ab-cover.png"
+  },
+  {
+    "key": "googledrive",
+    "name": "Google Drive",
+    "endpoint": "https://drive.google.com/drive/my-drive",
+    "logo": "https://s3-alpha.figma.com/hub/file/4765445806/10c157d8-1da5-42fd-8143-4dd6df2656ab-cover.png"
+  },
+  {
+    "key": "azureportal",
+    "name": "Azure Portal",
+    "endpoint": "https://portal.azure.com/#home",
+    "logo": "https://s3-alpha.figma.com/hub/file/4765445806/10c157d8-1da5-42fd-8143-4dd6df2656ab-cover.png"
+  },
+  {
+    "key": "azuredevops",
+    "name": "Azure DevOps",
+    "endpoint": "https://dev.azure.com/meliuscoder",
+    "logo": "https://s3-alpha.figma.com/hub/file/4765445806/10c157d8-1da5-42fd-8143-4dd6df2656ab-cover.png"
+  },
+  {
+    "key": "github",
+    "name": "GitHub",
+    "endpoint": "https://github.com/repos",
+    "logo": "https://s3-alpha.figma.com/hub/file/4765445806/10c157d8-1da5-42fd-8143-4dd6df2656ab-cover.png"
+  }
+]
