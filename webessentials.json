@@ -3,30 +3,30 @@
     "key": "gmail",
     "name": "Gmail",
     "endpoint": "https://mail.google.com/mail/u/0/#inbox",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYI1Aaw1LjMduiKFJ4x15SOjkbxv_SFN4yvOtKjp-aA&s=10"
+    "logo": "https://meliuscoder.github.io/gmail.png"
   },
   {
     "key": "googledrive",
     "name": "Google Drive",
     "endpoint": "https://drive.google.com/drive/my-drive",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYI1Aaw1LjMduiKFJ4x15SOjkbxv_SFN4yvOtKjp-aA&s=10"
+    "logo": "https://meliuscoder.github.io/gmail.png"
   },
   {
     "key": "azureportal",
     "name": "Azure Portal",
     "endpoint": "https://portal.azure.com/#home",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYI1Aaw1LjMduiKFJ4x15SOjkbxv_SFN4yvOtKjp-aA&s=10"
+    "logo": "https://meliuscoder.github.io/gmail.png"
   },
   {
     "key": "azuredevops",
     "name": "Azure DevOps",
     "endpoint": "https://dev.azure.com/meliuscoder",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYI1Aaw1LjMduiKFJ4x15SOjkbxv_SFN4yvOtKjp-aA&s=10"
+    "logo": "https://meliuscoder.github.io/gmail.png"
   },
   {
     "key": "github",
     "name": "GitHub",
     "endpoint": "https://github.com/repos",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrYI1Aaw1LjMduiKFJ4x15SOjkbxv_SFN4yvOtKjp-aA&s=10"
+    "logo": "https://meliuscoder.github.io/gmail.png"
   }
 ]
