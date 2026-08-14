@@ -3,30 +3,60 @@
     "key": "gmail",
     "name": "Gmail",
     "endpoint": "https://mail.google.com/mail/u/0/#inbox",
-    "logo": "https://meliuscoder.github.io/gmail.png"
+    "logo": "https://meliuscoder.github.io/weimages/gmail.png"
   },
   {
     "key": "googledrive",
     "name": "Google Drive",
     "endpoint": "https://drive.google.com/drive/my-drive",
-    "logo": "https://meliuscoder.github.io/gmail.png"
+    "logo": "https://meliuscoder.github.io/weimages/googledrive.png"
+  },
+  {
+    "key": "gemini",
+    "name": "Gemini",
+    "endpoint": "https://gemini.google.com/app",
+    "logo": "https://meliuscoder.github.io/weimages/gemini.png"
   },
   {
     "key": "azureportal",
     "name": "Azure Portal",
     "endpoint": "https://portal.azure.com/#home",
-    "logo": "https://meliuscoder.github.io/gmail.png"
+    "logo": "https://meliuscoder.github.io/weimages/azureportal.png"
   },
   {
     "key": "azuredevops",
     "name": "Azure DevOps",
     "endpoint": "https://dev.azure.com/meliuscoder",
-    "logo": "https://meliuscoder.github.io/gmail.png"
+    "logo": "https://meliuscoder.github.io/weimages/azuredevops.png"
+  },
+  {
+    "key": "onedrive",
+    "name": "Microsoft OneDrive",
+    "endpoint": "https://onedrive.live.com/my",
+    "logo": "https://meliuscoder.github.io/weimages/onedrive.png"
   },
   {
     "key": "github",
     "name": "GitHub",
     "endpoint": "https://github.com/repos",
-    "logo": "https://meliuscoder.github.io/gmail.png"
+    "logo": "https://meliuscoder.github.io/weimages/github.png"
+  },
+  {
+    "key": "githubcopilot",
+    "name": "GitHub Copilot",
+    "endpoint": "https://github.com/copilot",
+    "logo": "https://meliuscoder.github.io/weimages/githubcopilot.png"
+  },
+  {
+    "key": "chatgpt",
+    "name": "ChatGPT",
+    "endpoint": "https://chatgpt.com",
+    "logo": "https://meliuscoder.github.io/weimages/chatgpt.png"
+  },
+  {
+    "key": "openrouter",
+    "name": "GitHub",
+    "endpoint": "https://openrouter.ai/workspaces/default",
+    "logo": "https://meliuscoder.github.io/weimages/openrouter.png"
   }
 ]
