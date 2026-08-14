@@ -55,7 +55,7 @@
   },
   {
     "key": "openrouter",
-    "name": "GitHub",
+    "name": "Open Router",
     "endpoint": "https://openrouter.ai/workspaces/default",
     "logo": "https://meliuscoder.github.io/weimages/openrouter.png"
   }
